@@ -1,9 +1,9 @@
-title: "Ajeet Singh Yadav's Personal Website"
+title: "ajeetsinghyadav.github.io"
 description: "An amazing website."
 url: "https://ajeetsinghyadav.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site settings
 locale: "en-US"
@@ -13,7 +13,7 @@ repository: "ajeetsinghyadav/ajeetsinghyadav.github.io"
 author:
   name: "Ajeet Singh Yadav"
   avatar: "/assets/images/avatar.png"
-  bio: "I am a Senior Software Engineer with over 10 years of experience."
+  bio: "I am a Senior Staff Software Engineer in Stryker with over 10 years of experience."
   location: "Weston, FL"
   links:
     - label: "Email"
