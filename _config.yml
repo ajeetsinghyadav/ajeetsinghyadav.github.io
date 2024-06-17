@@ -1,50 +1,42 @@
-# Minimal Mistakes theme settings
-minimal_mistakes_skin: "default"
-
-# Site Settings
-locale: "en-US"
-title: "Ajeet Singh Yadav"
-title_separator: "-"
-subtitle: "Senior Software Engineer"
-name: "Ajeet Singh Yadav"
-description: "Showcasing my skills, projects, and blog."
+title: "Ajeet Singh Yadav's Personal Website"
+description: "An amazing website."
 url: "https://ajeetsinghyadav.github.io"
 baseurl: ""
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site settings
+locale: "en-US"
 repository: "ajeetsinghyadav/ajeetsinghyadav.github.io"
 
 # Site Author
 author:
   name: "Ajeet Singh Yadav"
-  avatar: "" 
-  bio: "I am a Senior Software Engineer at Stryker with over 10 years of experience in software development. Expertise in computer graphics development for Mako Robot Application."
+  avatar: "/assets/images/avatar.png"
+  bio: "I am a Senior Software Engineer with over 10 years of experience."
   location: "Weston, FL"
-  email: "yadav.ajeetsingh2020@email.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yadav.ajeetsingh2020@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ajeetsinghyadav.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ajeetsinghyadav"
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ajeetsinghyadav"
+# Social sharing
+twitter:
+  username: "your_twitter_username"
+github:
+  username: "ajeetsinghyadav"
 
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
+  - jekyll-gist
   - jekyll-include-cache
 
-# Pagination with jekyll-paginate
-paginate: 5
-paginate_path: /page:num/
+# Other settings
+markdown: kramdown
+highlighter: rouge
