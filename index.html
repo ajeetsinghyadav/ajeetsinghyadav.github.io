@@ -1,11 +1,53 @@
----
-layout: home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
 
-{% for post in site.posts limit:5 %}
-  <div class="post-preview">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p>{{ post.excerpt | strip_html }}</p>
-    <p><a href="{{ post.url }}">Read more →</a></p>
-  </div>
-{% endfor %}
+  <!-- Header -->
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/postcard/">PostCard</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- Recent Posts Section -->
+    <section class="recent-posts">
+      <h2>Recent Posts</h2>
+      <ul>
+        {% for post in site.posts limit:5 %}
+          <li>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.excerpt | strip_html }}</p>
+            <p><a href="{{ post.url }}">Read more →</a></p>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+
+    <!-- Author Information Section -->
+    <section class="author-info">
+      <h3>{{ site.author.name }}</h3>
+      <p>{{ site.author.bio }}</p>
+      <p><a href="mailto:{{ site.author.email }}">Email</a></p>
+      <p><a href="{{ site.author.github }}">GitHub</a></p>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; {{ site.title }} {{ site.year | date: "%Y" }}</p>
+  </footer>
+
+</body>
+</html>

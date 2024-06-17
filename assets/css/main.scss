@@ -1,9 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
-search: false
 ---
 
 @charset "utf-8";
 
+// Import Minimal Mistakes styles
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Import custom styles
+@import "sass/_custom"; // Your custom styles
+
+// Any additional Sass/SCSS content can be added below this line
