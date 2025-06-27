@@ -1,7 +1,9 @@
 main:
   - title: "About"
     url: "/about/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "PostCard"
-    url: "/postcard/"
+  - title: "Projects"
+    url: "/#current-projects"
+  - title: "Skills"
+    url: "/#skills"
+  - title: "Contact"
+    url: "/#contact"
