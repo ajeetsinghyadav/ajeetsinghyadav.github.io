@@ -3,7 +3,7 @@ description: "Senior Software Engineer | Robotics | Graphics | Game Engines"
 url: "https://ajeetsinghyadav.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site settings
 locale: "en-US"

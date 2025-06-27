@@ -7,8 +7,12 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/avatar.png
   actions:
-    - label: "View Projects"
-      url: "/projects/"
+    - label: "View VertexNova"
+      url: "/vertexnova/"
+    - label: "Work Experience"
+      url: "/experience/"
+    - label: "About"
+      url: "/about/"
 ---
 
 <!-- Hero Section -->
