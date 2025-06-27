@@ -2,6 +2,7 @@
 
 Welcome to my personal website repository! This site is hosted on GitHub Pages and built using the Minimal Mistakes Jekyll theme.
 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fajeetsinghyadav.github.io)](https://ajeetsinghyadav.github.io/)
 ## About Me
 
 I am a Senior Software Engineer at Stryker with over 10 years of experience in software development. I specialize in computer graphics development for Mako Robot Application.
