@@ -11,23 +11,18 @@ subtitle: "Senior Software Engineer | Computer Graphics | Game Engine Developmen
   <p>Senior Software Engineer at Stryker with 10+ years of experience in software development, specializing in computer graphics and game engine development.</p>
 </div>
 
-<!-- Skills Section -->
 ## Skills
-<ul>
-  <li>Software Development</li>
-  <li>Computer Graphics (OpenGL, Vulkan, Metal)</li>
-  <li>Game Engine Development</li>
-  <li>Cross-Platform (Windows, Linux, MacOS)</li>
-</ul>
+- Software Development
+- Computer Graphics (OpenGL, Vulkan, Metal)
+- Game Engine Development
+- Cross-Platform (Windows, Linux, MacOS)
 
-<!-- Projects Section -->
 ## Current Projects
-- <b>VertexNova</b>: A custom game engine being developed to support Windows, Linux, and MacOS.
+- **VertexNova**: A custom game engine being developed to support Windows, Linux, and MacOS.
 
-<!-- Contact Section -->
 ## Contact
-- <b>Email</b>: <a href="mailto:yadav.ajeetsingh2020@email.com">yadav.ajeetsingh2020@email.com</a>
-- <b>GitHub</b>: <a href="https://github.com/ajeetsinghyadav">ajeetsinghyadav</a>
+- **Email**: [yadav.ajeetsingh2020@email.com](mailto:yadav.ajeetsingh2020@email.com)
+- **GitHub**: [ajeetsinghyadav](https://github.com/ajeetsinghyadav)
 
 ---
 
