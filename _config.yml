@@ -1,9 +1,9 @@
-title: "ajeetsinghyadav.github.io"
-description: "An amazing website."
+title: "Ajeet Singh Yadav"
+description: "Senior Software Engineer | Robotics | Graphics | Game Engines"
 url: "https://ajeetsinghyadav.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site settings
 locale: "en-US"
@@ -13,7 +13,7 @@ repository: "ajeetsinghyadav/ajeetsinghyadav.github.io"
 author:
   name: "Ajeet Singh Yadav"
   avatar: "/assets/images/avatar.png"
-  bio: "I am a Senior Staff Software Engineer in Stryker with over 10 years of experience."
+  bio: "Senior Software Engineer at Stryker, specializing in robotics, 3D visualization, and game engine development."
   location: "Weston, FL"
   links:
     - label: "Email"
@@ -22,6 +22,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ajeetsinghyadav"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ajeet-yadav-b1133991"
 
 # Social sharing
 twitter:
