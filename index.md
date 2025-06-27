@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: "Ajeet Singh Yadav"
 subtitle: "Senior Software Engineer | Computer Graphics | Game Engine Development"
 ---
