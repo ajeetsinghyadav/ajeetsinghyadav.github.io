@@ -40,6 +40,21 @@ plugins:
   - jekyll-gist
   - jekyll-include-cache
 
+# Collections for custom pages
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 # Other settings
 markdown: kramdown
 highlighter: rouge
