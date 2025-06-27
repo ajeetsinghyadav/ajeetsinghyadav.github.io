@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Ajeet Singh Yadav"
-subtitle: "Senior Software Engineer | Computer Graphics | Game Engine Development"
+subtitle: "Senior Staff Engineer | Computer Graphics | Game Engine Development"
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
