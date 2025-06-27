@@ -7,7 +7,7 @@ author_profile: true
 
 ## Ajeet Singh Yadav
 
-I am a Senior Software Engineer at Stryker with over 10 years of experience in software development. My expertise lies in computer graphics development for Mako Robot Application.
+Ajeet Singh Yadav is a Senior Software Engineer with 10+ years of experience, currently working at the Robotics Innovation Center, Stryker, on medical devices for Mako. He is also part of the architecture team, with a main focus on 3D visualization, advanced algorithms, and leading multiple impactful projects within Stryker. Beyond his professional role, Ajeet is developing VertexNova—a multiplatform, multi-backend custom game engine—demonstrating his passion for high-performance graphics and cross-platform technology.
 
 ### Education
 
@@ -15,14 +15,18 @@ I am a Senior Software Engineer at Stryker with over 10 years of experience in s
 
 ### Skills
 
+- 3D Visualization & Graphics
+- Algorithm Development
 - Software Development
-- Computer Graphics
 - OpenGL, Vulkan, Metal
 - Game Engine Development
+- Cross-Platform Systems
+- Software Architecture
 
 ### Current Projects
 
-- **VertexNova**: A custom game engine being developed to support Windows, Linux, and MacOS.
+- **VertexNova**: A custom game engine for Windows, Linux, and MacOS, supporting multiple graphics backends.
+- **Stryker**: Medical device software with a focus on 3D visualization and advanced algorithms.
 
 ### Contact
 

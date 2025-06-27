@@ -1,0 +1,15 @@
+# main-projects
+- image_path: /assets/images/avatar.png
+  alt: "VertexNova Game Engine"
+  title: "VertexNova"
+  excerpt: "A custom game engine for Windows, Linux, and MacOS. High-performance, modern graphics, and cross-platform."
+  url: "/projects/"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+- image_path: /assets/images/avatar.png
+  alt: "Senior Software Engineer"
+  title: "Senior Software Engineer at Stryker"
+  excerpt: "Over 10 years of experience in software development, specializing in computer graphics and game engine development."
+  url: "/about/"
+  btn_label: "About Me"
+  btn_class: "btn--primary"
