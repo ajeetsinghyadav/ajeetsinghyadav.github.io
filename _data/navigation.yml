@@ -1,9 +1,0 @@
-main:
-  - title: "About"
-    url: "/about/"
-  - title: "VertexNova"
-    url: "/vertexnova/"
-  - title: "Experience"
-    url: "/experience/"
-  - title: "Contact"
-    url: "/#contact"
